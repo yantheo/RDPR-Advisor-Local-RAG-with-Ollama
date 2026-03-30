@@ -1,5 +1,7 @@
 
 
+
+
 I 
 
 _(Actes législatifs)_ 
@@ -46,6 +48,8 @@ considérant ce qui suit:
 
 
 
+
+
 - (4) Le traitement des données à caractère personnel devrait être conçu pour servir l'humanité. Le droit à la protection des données à caractère personnel n'est pas un droit absolu; il doit être considéré par rapport à sa fonction dans la société et être mis en balance avec d'autres droits fondamentaux, conformément au principe de proportion­ nalité. Le présent règlement respecte tous les droits fondamentaux et observe les libertés et les principes reconnus par la Charte, consacrés par les traités, en particulier le respect de la vie privée et familiale, du domicile et des communications, la protection des données à caractère personnel, la liberté de pensée, de conscience et de religion, la liberté d'expression et d'information, la liberté d'entreprise, le droit à un recours effectif et à accéder à un tribunal impartial, et la diversité culturelle, religieuse et linguistique. 
 
 - (5) L'intégration économique et sociale résultant du fonctionnement du marché intérieur a conduit à une augmentation substantielle des flux transfrontaliers de données à caractère personnel. Les échanges de données à caractère personnel entre acteurs publics et privés, y compris les personnes physiques, les associations et les entreprises, se sont intensifiés dans l'ensemble de l'Union. Le droit de l'Union appelle les autorités nationales des États membres à coopérer et à échanger des données à caractère personnel, afin d'être en mesure de remplir leurs missions ou d'accomplir des tâches pour le compte d'une autorité d'un autre État membre. 
@@ -59,6 +63,8 @@ considérant ce qui suit:
 - (9) Si elle demeure satisfaisante en ce qui concerne ses objectifs et ses principes, la directive 95/46/CE n'a pas permis d'éviter une fragmentation de la mise en œuvre de la protection des données dans l'Union, une insécurité juridique ou le sentiment, largement répandu dans le public, que des risques importants pour la protection des personnes physiques subsistent, en particulier en ce qui concerne l'environnement en ligne. Les différences dans le niveau de protection des droits et libertés des personnes physiques, en particulier le droit à la protection des données à caractère personnel, à l'égard du traitement des données à caractère personnel dans les États membres peuvent empêcher le libre flux de ces données dans l'ensemble de l'Union. Ces différences peuvent dès lors constituer un obstacle à l'exercice des activités économiques au niveau de l'Union, fausser la concurrence et empêcher les autorités de s'acquitter des obligations qui leur incombent en vertu du droit de l'Union. Ces différences dans le niveau de protection résultent de l'existence de divergences dans la mise en œuvre et l'appli­ cation de la directive 95/46/CE. 
 
 - (10) Afin d'assurer un niveau cohérent et élevé de protection des personnes physiques et de lever les obstacles aux flux de données à caractère personnel au sein de l'Union, le niveau de protection des droits et des libertés des personnes physiques à l'égard du traitement de ces données devrait être équivalent dans tous les États membres. Il convient dès lors d'assurer une application cohérente et homogène des règles de protection des libertés et droits fondamentaux des personnes physiques à l'égard du traitement des données à caractère personnel dans l'ensemble de l'Union. En ce qui concerne le traitement de données à caractère personnel nécessaire au respect d'une obligation légale, à l'exécution d'une mission d'intérêt public ou relevant de l'exercice de l'autorité publique dont est investi le responsable du traitement, il y a lieu d'autoriser les États membres à maintenir ou à introduire des dispositions nationales destinées à préciser davantage l'application des règles du présent règlement. Parallèlement à la législation générale et horizontale relative à la protection des données mettant en œuvre la directive 95/46/CE, il existe, dans les États membres, plusieurs législations sectorielles spécifiques dans des domaines qui requièrent des dispositions plus précises. Le présent règlement laisse aussi aux États membres une marge de manœuvre pour préciser ses règles, y compris en ce qui concerne le traitement de catégories particulières de données à caractère personnel (ci-après dénommées «données sensibles»). À cet égard, le présent règlement n'exclut pas que le droit des États membres précise les circonstances des situations particulières de traitement y compris en fixant de manière plus précise les conditions dans lesquelles le traitement de données à caractère personnel est licite. 
+
+
 
 
 
@@ -84,6 +90,8 @@ considérant ce qui suit:
 
 
 
+
+
 activité professionnelle ou commerciale. Les activités personnelles ou domestiques pourraient inclure l'échange de correspondance et la tenue d'un carnet d'adresses, ou l'utilisation de réseaux sociaux et les activités en ligne qui ont lieu dans le cadre de ces activités. Toutefois, le présent règlement s'applique aux responsables du traitement ou aux sous-traitants qui fournissent les moyens de traiter des données à caractère personnel pour de telles activités personnelles ou domestiques. 
 
 - (19) La protection des personnes physiques à l'égard du traitement des données à caractère personnel par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et la prévention de telles menaces et la libre circulation de ces données, fait l'objet d'un acte juridique spécifique de l'Union. Le présent règlement ne devrait dès lors pas s'appliquer aux activités de traitement effectuées à ces fins. Toutefois, les données à caractère personnel traitées par des autorités publiques en vertu du présent règlement devraient, lorsqu'elles sont utilisées à ces fins, être régies par un acte juridique de l'Union plus spécifique, à savoir la directive (UE) 2016/680 du Parlement européen et du Conseil ([1] ). Les États membres peuvent confier à des autorités compétentes au sens de la directive (UE) 2016/680 des missions qui ne sont pas nécessairement effectuées à des fins de prévention et de détection des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et la prévention de telles menaces, de manière à ce que le traitement de données à caractère personnel à ces autres fins, pour autant qu'il relève du champ d'application du droit de l'Union, relève du champ d'application du présent règlement. 
@@ -102,6 +110,8 @@ En ce qui concerne le traitement de données à caractère personnel par ces aut
 
 
 
+
+
 - (23) Afin de garantir qu'une personne physique ne soit pas exclue de la protection à laquelle elle a droit en vertu du présent règlement, le traitement de données à caractère personnel relatives à des personnes concernées qui se trouvent dans l'Union par un responsable du traitement ou un sous-traitant qui n'est pas établi dans l'Union devrait être soumis au présent règlement lorsque les activités de traitement sont liées à l'offre de biens ou de services à ces personnes, qu'un paiement soit exigé ou non. Afin de déterminer si un tel responsable du traitement ou sous-traitant offre des biens ou des services à des personnes concernées qui se trouvent dans l'Union, il y a lieu d'établir s'il est clair que le responsable du traitement ou le sous-traitant envisage d'offrir des services à des personnes concernées dans un ou plusieurs États membres de l'Union. Alors que la simple accessi­ bilité du site internet du responsable du traitement, d'un sous-traitant ou d'un intermédiaire dans l'Union, d'une adresse électronique ou d'autres coordonnées, ou l'utilisation d'une langue généralement utilisée dans le pays tiers où le responsable du traitement est établi ne suffit pas pour établir cette intention, des facteurs tels que l'utilisation d'une langue ou d'une monnaie d'usage courant dans un ou plusieurs États membres, avec la possibilité de commander des biens et des services dans cette autre langue ou la mention de clients ou d'utilisateurs qui se trouvent dans l'Union, peuvent indiquer clairement que le responsable du traitement envisage d'offrir des biens ou des services à des personnes concernées dans l'Union. 
 
 - (24) Le traitement de données à caractère personnel de personnes concernées qui se trouvent dans l'Union par un responsable du traitement ou un sous-traitant qui n'est pas établi dans l'Union devrait également être soumis au présent règlement lorsque ledit traitement est lié au suivi du comportement de ces personnes dans la mesure où il s'agit de leur comportement au sein de l'Union. Afin de déterminer si une activité de traitement peut être considérée comme un suivi du comportement des personnes concernées, il y a lieu d'établir si les personnes physiques sont suivies sur internet, ce qui comprend l'utilisation ultérieure éventuelle de techniques de traitement des données à caractère personnel qui consistent en un profilage d'une personne physique, afin notamment de prendre des décisions la concernant ou d'analyser ou de prédire ses préférences, ses comportements et ses dispositions d'esprit. 
@@ -115,6 +125,8 @@ En ce qui concerne le traitement de données à caractère personnel par ces aut
 - (28) La pseudonymisation des données à caractère personnel peut réduire les risques pour les personnes concernées et aider les responsables du traitement et les sous-traitants à remplir leurs obligations en matière de protection des données. L'introduction explicite de la pseudonymisation dans le présent règlement ne vise pas à exclure toute autre mesure de protection des données. 
 
 - (29) Afin d'encourager la pseudonymisation dans le cadre du traitement des données à caractère personnel, des mesures de pseudonymisation devraient être possibles chez un même responsable du traitement, tout en permettant une analyse générale, lorsque celui-ci a pris les mesures techniques et organisationnelles nécessaires afin de garantir, pour le traitement concerné, que le présent règlement est mis en œuvre, et que les informations supplémentaires permettant d'attribuer les données à caractère personnel à une personne concernée précise soient conservées séparément. Le responsable du traitement qui traite les données à caractère personnel devrait indiquer les personnes autorisées à cet effet chez un même responsable du traitement. 
+
+
 
 
 
@@ -136,6 +148,8 @@ En ce qui concerne le traitement de données à caractère personnel par ces aut
 
 
 
+
+
 cas cet autre établissement devrait être considéré comme étant l'établissement principal. L'établissement principal d'un responsable du traitement dans l'Union devrait être déterminé en fonction de critères objectifs et devrait supposer l'exercice effectif et réel d'activités de gestion déterminant les décisions principales quant aux finalités et aux moyens du traitement dans le cadre d'un dispositif stable. Ce critère ne devrait pas dépendre du fait que le traitement ait lieu à cet endroit. La présence et l'utilisation de moyens techniques et de technologies de traitement de données à caractère personnel ou d'activités de traitement ne constituent pas, en elles-mêmes, un établissement principal et ne sont, dès lors, pas des critères déterminants pour un établissement principal. L'établissement principal du sous-traitant devrait être le lieu de son administration centrale dans l'Union ou, s'il ne dispose pas d'une administration centrale dans l'Union, le lieu où se déroule l'essentiel des activités de traitement dans l'Union. Lorsque le responsable du traitement et le sous-traitant sont tous deux concernés, l'autorité de contrôle de l'État membre dans lequel le responsable du traitement a son établissement principal devrait rester l'autorité de contrôle chef de file compétente, mais l'autorité de contrôle du sous-traitant devrait être considérée comme étant une autorité de contrôle concernée et cette autorité de contrôle devrait participer à la procédure de coopération prévue par le présent règlement. En tout état de cause, les autorités de contrôle du ou des États membres dans lesquels le sous-traitant a un ou plusieurs établissements ne devraient pas être considérées comme étant des autorités de contrôle concernées lorsque le projet de décision ne concerne que le responsable du traitement. Lorsque le traitement est effectué par un groupe d'entreprises, l'établissement principal de l'entreprise qui exerce le contrôle devrait être considéré comme étant l'établissement principal du groupe d'entreprises, excepté lorsque les finalités et les moyens du traitement sont déterminés par une autre entreprise. 
 
 - (37) Un groupe d'entreprises devrait couvrir une entreprise qui exerce le contrôle et ses entreprises contrôlées, la première devant être celle qui peut exercer une influence dominante sur les autres entreprises du fait, par exemple, de la détention du capital, d'une participation financière ou des règles qui la régissent, ou du pouvoir de faire appliquer les règles relatives à la protection des données à caractère personnel. Une entreprise qui contrôle le traitement de données à caractère personnel dans des entreprises qui lui sont affiliées devrait être considérée comme formant avec ces dernières un groupe d'entreprises. 
@@ -145,6 +159,8 @@ cas cet autre établissement devrait être considéré comme étant l'établisse
 - (39) Tout traitement de données à caractère personnel devrait être licite et loyal. Le fait que des données à caractère personnel concernant des personnes physiques sont collectées, utilisées, consultées ou traitées d'une autre manière et la mesure dans laquelle ces données sont ou seront traitées devraient être transparents à l'égard des personnes physiques concernées. Le principe de transparence exige que toute information et communication relatives au traitement de ces données à caractère personnel soient aisément accessibles, faciles à comprendre, et formulées en des termes clairs et simples. Ce principe vaut, notamment, pour les informations communiquées aux personnes concernées sur l'identité du responsable du traitement et sur les finalités du traitement ainsi que pour les autres informations visant à assurer un traitement loyal et transparent à l'égard des personnes physiques concernées et leur droit d'obtenir la confirmation et la communication des données à caractère personnel les concernant qui font l'objet d'un traitement. Les personnes physiques devraient être informées des risques, règles, garanties et droits liés au traitement des données à caractère personnel et des modalités d'exercice de leurs droits en ce qui concerne ce traitement. En particulier, les finalités spécifiques du traitement des données à caractère personnel devraient être explicites et légitimes, et déterminées lors de la collecte des données à caractère personnel. Les données à caractère personnel devraient être adéquates, pertinentes et limitées à ce qui est nécessaire pour les finalités pour lesquelles elles sont traitées. Cela exige, notamment, de garantir que la durée de conservation des données soit limitée au strict minimum. Les données à caractère personnel ne devraient être traitées que si la finalité du traitement ne peut être raisonnablement atteinte par d'autres moyens. Afin de garantir que les données ne sont pas conservées plus longtemps que nécessaire, des délais devraient être fixés par le responsable du traitement pour leur effacement ou pour un examen périodique. Il y a lieu de prendre toutes les mesures raisonnables afin de garantir que les données à caractère personnel qui sont inexactes sont rectifiées ou supprimées. Les données à caractère personnel devraient être traitées de manière à garantir une sécurité et une confidentialité appropriées, y compris pour prévenir l'accès non autorisé à ces données et à l'équipement utilisé pour leur traitement ainsi que l'utilisation non autorisée de ces données et de cet équipement. 
 
 - (40) Pour être licite, le traitement de données à caractère personnel devrait être fondé sur le consentement de la personne concernée ou reposer sur tout autre fondement légitime prévu par la loi, soit dans le présent règlement 
+
+
 
 
 
@@ -166,6 +182,8 @@ soit dans une autre disposition du droit national ou du droit de l'Union, ainsi 
 
 
 
+
+
 physique. Le traitement de données à caractère personnel fondé sur l'intérêt vital d'une autre personne physique ne devrait en principe avoir lieu que lorsque le traitement ne peut manifestement pas être fondé sur une autre base juridique. Certains types de traitement peuvent être justifiés à la fois par des motifs importants d'intérêt public et par les intérêts vitaux de la personne concernée, par exemple lorsque le traitement est nécessaire à des fins humanitaires, y compris pour suivre des épidémies et leur propagation, ou dans les cas d'urgence humanitaire, notamment les situations de catastrophe naturelle et d'origine humaine. 
 
 - (47) Les intérêts légitimes d'un responsable du traitement, y compris ceux d'un responsable du traitement à qui les données à caractère personnel peuvent être communiquées, ou d'un tiers peuvent constituer une base juridique pour le traitement, à moins que les intérêts ou les libertés et droits fondamentaux de la personne concernée ne prévalent, compte tenu des attentes raisonnables des personnes concernées fondées sur leur relation avec le responsable du traitement. Un tel intérêt légitime pourrait, par exemple, exister lorsqu'il existe une relation pertinente et appropriée entre la personne concernée et le responsable du traitement dans des situations telles que celles où la personne concernée est un client du responsable du traitement ou est à son service. En tout état de cause, l'existence d'un intérêt légitime devrait faire l'objet d'une évaluation attentive, notamment afin de déterminer si une personne concernée peut raisonnablement s'attendre, au moment et dans le cadre de la collecte des données à caractère personnel, à ce que celles-ci fassent l'objet d'un traitement à une fin donnée. Les intérêts et droits fondamentaux de la personne concernée pourraient, en particulier, prévaloir sur l'intérêt du responsable du traitement lorsque des données à caractère personnel sont traitées dans des circonstances où les personnes concernées ne s'attendent raisonnablement pas à un traitement ultérieur. Étant donné qu'il appartient au législateur de prévoir par la loi la base juridique pour le traitement des données à caractère personnel par les autorités publiques, cette base juridique ne devrait pas s'appliquer aux traitements effectués par des autorités publiques dans l'accomplissement de leurs missions. Le traitement de données à caractère personnel strictement nécessaire à des fins de prévention de la fraude constitue également un intérêt légitime du responsable du traitement concerné. Le traitement de données à caractère personnel à des fins de prospection peut être considéré comme étant réalisé pour répondre à un intérêt légitime. 
@@ -178,6 +196,8 @@ physique. Le traitement de données à caractère personnel fondé sur l'intér�
 
 
 
+
+
 responsable du traitement, quant à l'utilisation ultérieure desdites données; la nature des données à caractère personnel; les conséquences pour les personnes concernées du traitement ultérieur prévu; et l'existence de garanties appropriées à la fois dans le cadre du traitement initial et du traitement ultérieur prévu. 
 
 Lorsque la personne concernée a donné son consentement ou que le traitement est fondé sur le droit de l'Union ou le droit d'un État membre qui constitue une mesure nécessaire et proportionnée dans une société démocratique pour garantir, en particulier, d'importants objectifs d'intérêt public général, le responsable du traitement devrait être autorisé à effectuer un traitement ultérieur des données à caractère personnel indépen­ damment de la compatibilité des finalités. En tout état de cause, l'application des principes énoncés dans le présent règlement et, en particulier, l'information de la personne concernée au sujet de ces autres finalités et de ses droits, y compris le droit de s'opposer au traitement, devraient être assurées. Le fait, pour le responsable du traitement, de révéler l'existence d'éventuelles infractions pénales ou de menaces pour la sécurité publique et de transmettre à une autorité compétente les données à caractère personnel concernées dans des cas individuels ou dans plusieurs cas relatifs à une même infraction pénale ou à des mêmes menaces pour la sécurité publique devrait être considéré comme relevant de l'intérêt légitime du responsable du traitement. Néanmoins, cette transmission dans l'intérêt légitime du responsable du traitement ou le traitement ultérieur des données à caractère personnel devrait être interdit lorsque le traitement est incompatible avec une obligation de confiden­ tialité légale, professionnelle ou toute autre obligation de confidentialité contraignante. 
@@ -187,6 +207,8 @@ Lorsque la personne concernée a donné son consentement ou que le traitement es
 - (52) Des dérogations à l'interdiction de traiter des catégories particulières de données à caractère personnel devraient également être autorisées lorsque le droit de l'Union ou le droit d'un État membre le prévoit, et sous réserve de garanties appropriées, de manière à protéger les données à caractère personnel et d'autres droits fondamentaux, lorsque l'intérêt public le commande, notamment le traitement des données à caractère personnel dans le domaine du droit du travail et du droit de la protection sociale, y compris les retraites, et à des fins de sécurité, de surveillance et d'alerte sanitaire, de prévention ou de contrôle de maladies transmissibles et d'autres menaces graves pour la santé. Ces dérogations sont possibles à des fins de santé, en ce compris la santé publique et la gestion des services de soins de santé, en particulier pour assurer la qualité et l'efficience des procédures de règlement des demandes de prestations et de services dans le régime d'assurance-maladie, ou à des fins archivis­ tiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques. Une dérogation devrait, en outre, permettre le traitement de ces données à caractère personnel, si cela est nécessaire aux fins de la constatation, de l'exercice ou de la défense d'un droit en justice, que ce soit dans le cadre d'une procédure judiciaire, administrative ou extrajudiciaire. 
 
 - (53) Les catégories particulières de données à caractère personnel qui méritent une protection plus élevée ne devraient être traitées qu'à des fins liées à la santé, lorsque cela est nécessaire pour atteindre ces finalités dans l'intérêt des personnes physiques et de la société dans son ensemble, notamment dans le cadre de la gestion des services et des systèmes de soins de santé ou de protection sociale, y compris le traitement, par les autorités de gestion et les autorités centrales de santé nationales, de ces données, en vue du contrôle de la qualité, de l'information des gestionnaires et de la supervision générale, au niveau national et local, du système de soins de santé ou de protection sociale et en vue d'assurer la continuité des soins de santé ou de la protection sociale et des soins de santé transfrontaliers ou à des fins de sécurité, de surveillance et d'alerte sanitaires, ou à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques, sur la base du droit de l'Union ou du droit des États membres qui doit répondre à un objectif d'intérêt public, ainsi que pour des 
+
+
 
 
 
@@ -208,6 +230,8 @@ Lorsque la personne concernée a donné son consentement ou que le traitement es
 
 
 
+
+
 - (60) Le principe de traitement loyal et transparent exige que la personne concernée soit informée de l'existence de l'opération de traitement et de ses finalités. Le responsable du traitement devrait fournir à la personne concernée toute autre information nécessaire pour garantir un traitement équitable et transparent, compte tenu des circons­ tances particulières et du contexte dans lesquels les données à caractère personnel sont traitées. En outre, la personne concernée devrait être informée de l'existence d'un profilage et des conséquences de celui-ci. Lorsque les données à caractère personnel sont collectées auprès de la personne concernée, il importe que celle-ci sache également si elle est obligée de fournir ces données à caractère personnel et soit informée des conséquences auxquelles elle s'expose si elle ne les fournit pas. Ces informations peuvent être fournies accompagnées d'icônes normalisées afin d'offrir une bonne vue d'ensemble, facilement visible, compréhensible et clairement lisible, du traitement prévu. Lorsque les icônes sont présentées par voie électronique, elles devraient être lisibles par machine. 
 
 - (61) Les informations sur le traitement des données à caractère personnel relatives à la personne concernée devraient lui être fournies au moment où ces données sont collectées auprès d'elle ou, si les données à caractère personnel sont obtenues d'une autre source, dans un délai raisonnable en fonction des circonstances propres à chaque cas. Lorsque des données à caractère personnel peuvent être légitimement communiquées à un autre destinataire, il convient que la personne concernée soit informée du moment auquel ces données à caractère personnel sont communiquées pour la première fois audit destinataire. Lorsqu'il a l'intention de traiter les données à caractère personnel à des fins autres que celles pour lesquelles elles ont été collectées, le responsable du traitement devrait, avant de procéder à ce traitement ultérieur, fournir à la personne concernée des informations au sujet de cette autre finalité et toute autre information nécessaire. Lorsque l'origine des données à caractère personnel n'a pas pu être communiquée à la personne concernée parce que plusieurs sources ont été utilisées, des informations générales devraient être fournies. 
@@ -219,6 +243,8 @@ Lorsque la personne concernée a donné son consentement ou que le traitement es
 - (64) Le responsable du traitement devrait prendre toutes les mesures raisonnables pour vérifier l'identité d'une personne concernée qui demande l'accès à des données, en particulier dans le cadre des services et identifiants en ligne. Un responsable du traitement ne devrait pas conserver des données à caractère personnel à la seule fin d'être en mesure de réagir à d'éventuelles demandes. 
 
 - (65) Les personnes concernées devraient avoir le droit de faire rectifier des données à caractère personnel les concernant, et disposer d'un «droit à l'oubli» lorsque la conservation de ces données constitue une violation du présent règlement ou du droit de l'Union ou du droit d'un État membre auquel le responsable du traitement est soumis. En particulier, les personnes concernées devraient avoir le droit d'obtenir que leurs données à caractère personnel soient effacées et ne soient plus traitées, lorsque ces données à caractère personnel ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ou traitées d'une autre manière, lorsque les personnes concernées ont retiré leur consentement au traitement ou lorsqu'elles s'opposent au traitement de 
+
+
 
 
 
@@ -236,6 +262,8 @@ données à caractère personnel les concernant, ou encore lorsque le traitement
 
 
 
+
+
 - (71) La personne concernée devrait avoir le droit de ne pas faire l'objet d'une décision, qui peut comprendre une mesure, impliquant l'évaluation de certains aspects personnels la concernant, qui est prise sur le seul fondement d'un traitement automatisé et qui produit des effets juridiques la concernant ou qui, de façon similaire, l'affecte de manière significative, tels que le rejet automatique d'une demande de crédit en ligne ou des pratiques de recrutement en ligne sans aucune intervention humaine. Ce type de traitement inclut le «profilage» qui consiste en toute forme de traitement automatisé de données à caractère personnel visant à évaluer les aspects personnels relatifs à une personne physique, notamment pour analyser ou prédire des aspects concernant le rendement au travail de la personne concernée, sa situation économique, sa santé, ses préférences ou centres d'intérêt personnels, sa fiabilité ou son comportement, ou sa localisation et ses déplacements, dès lors qu'il produit des effets juridiques concernant la personne en question ou qu'il l'affecte de façon similaire de manière significative. Toutefois, la prise de décision fondée sur un tel traitement, y compris le profilage, devrait être permise lorsqu'elle est expressément autorisée par le droit de l'Union ou le droit d'un État membre auquel le responsable du traitement est soumis, y compris aux fins de contrôler et de prévenir les fraudes et l'évasion fiscale conformément aux règles, normes et recommandations des institutions de l'Union ou des organes de contrôle nationaux, et d'assurer la sécurité et la fiabilité d'un service fourni par le responsable du traitement, ou nécessaire à la conclusion ou à l'exécution d'un contrat entre la personne concernée et un responsable du traitement, ou si la personne concernée a donné son consentement explicite. En tout état de cause, un traitement de ce type devrait être assorti de garanties appropriées, qui devraient comprendre une information spécifique de la personne concernée ainsi que le droit d'obtenir une intervention humaine, d'exprimer son point de vue, d'obtenir une explication quant à la décision prise à l'issue de ce type d'évaluation et de contester la décision. Cette mesure ne devrait pas concerner un enfant. 
 
 Afin d'assurer un traitement équitable et transparent à l'égard de la personne concernée, compte tenu des circons­ tances particulières et du contexte dans lesquels les données à caractère personnel sont traitées, le responsable du traitement devrait utiliser des procédures mathématiques ou statistiques adéquates aux fins du profilage, appliquer les mesures techniques et organisationnelles appropriées pour faire en sorte, en particulier, que les facteurs qui entraînent des erreurs dans les données à caractère personnel soient corrigés et que le risques d'erreur soit réduit au minimum, et sécuriser les données à caractère personnel d'une manière qui tienne compte des risques susceptibles de peser sur les intérêts et les droits de la personne concernée et qui prévienne, entre autres, les effets discriminatoires à l'égard des personnes physiques fondées sur la l'origine raciale ou ethnique, les opinions politiques, la religion ou les convictions, l'appartenance syndicale, le statut génétique ou l'état de santé, ou l'orien­ tation sexuelle, ou qui se traduisent par des mesures produisant un tel effet. La prise de décision et le profilage automatisés fondés sur des catégories particulières de données à caractère personnel ne devraient être autorisés que dans des conditions spécifiques. 
@@ -245,6 +273,8 @@ Afin d'assurer un traitement équitable et transparent à l'égard de la personn
 - (73) Des limitations à certains principes spécifiques ainsi qu'au droit à l'information, au droit d'accès aux données à caractère personnel, au droit de rectification ou d'effacement de ces données, au droit à la portabilité des données, au droit d'opposition, aux décisions fondées sur le profilage, ainsi qu'à la communication d'une violation de données à caractère personnel à une personne concernée et à certaines obligations connexes des responsables du traitement peuvent être imposées par le droit de l'Union ou le droit d'un État membre, dans la mesure nécessaire et proportionnée dans une société démocratique pour garantir la sécurité publique, y compris la protection de la vie humaine, particulièrement en réponse à des catastrophes d'origine naturelle ou humaine, la prévention des infractions pénales, les enquêtes et les poursuites en la matière ou l'exécution de sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et la prévention de telles menaces ou de manquements à la déontologie des professions réglementées, et pour garantir d'autres objectifs d'intérêt public importants de l'Union ou d'un État membre, notamment un intérêt économique ou financier important de l'Union ou d'un État membre, la tenue de registres publics conservés pour des motifs d'intérêt public général, le traitement ultérieur de données à caractère personnel archivées pour fournir des informations spécifiques relatives au comportement politique dans le cadre des régimes des anciens États totalitaires ou la protection de la personne concernée ou des droits et libertés d'autrui, y compris la protection sociale, la santé publique et les finalités humanitaires. Il y a lieu que ces limitations respectent les exigences énoncées par la Charte et par la convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales. 
 
 - (74) Il y a lieu d'instaurer la responsabilité du responsable du traitement pour tout traitement de données à caractère personnel qu'il effectue lui-même ou qui est réalisé pour son compte. Il importe, en particulier, que le responsable du traitement soit tenu de mettre en œuvre des mesures appropriées et effectives et soit à même de démontrer la conformité des activités de traitement avec le présent règlement, y compris l'efficacité des mesures. Ces mesures devraient tenir compte de la nature, de la portée, du contexte et des finalités du traitement ainsi que du risque que celui-ci présente pour les droits et libertés des personnes physiques. 
+
+
 
 
 
@@ -262,6 +292,8 @@ Afin d'assurer un traitement équitable et transparent à l'égard de la personn
 
 
 
+
+
 susceptible d'engendrer un risque pour les droits et libertés des personnes physiques, compte tenu de la nature, du contexte, de la portée et des finalités du traitement, ou si le responsable du traitement est une autorité publique ou un organisme public. Le représentant devrait agir pour le compte du responsable du traitement ou du sous-traitant et peut être contacté par toute autorité de contrôle. Le représentant devrait être expressément désigné par un mandat écrit du responsable du traitement ou du sous-traitant pour agir en son nom en ce qui concerne les obligations qui lui incombent en vertu du présent règlement. La désignation de ce représentant ne porte pas atteinte aux responsabilités du responsable du traitement ou du sous-traitant au titre du présent règlement. Ce représentant devrait accomplir ses tâches conformément au mandat reçu du responsable du traitement ou du sous-traitant, y compris coopérer avec les autorités de contrôle compétentes en ce qui concerne toute action entreprise pour assurer le respect du présent règlement. Le représentant désigné devrait faire l'objet de procédures coercitives en cas de non-respect du présent règlement par le responsable du traitement ou le soustraitant. 
 
 - (81) Afin que les exigences du présent règlement soient respectées dans le cadre d'un traitement réalisé par un soustraitant pour le compte du responsable du traitement, lorsque ce dernier confie des activités de traitement à un sous-traitant, le responsable du traitement ne devrait faire appel qu'à des sous-traitants présentant des garanties suffisantes, notamment en termes de connaissances spécialisées, de fiabilité et de ressources, pour la mise en œuvre de mesures techniques et organisationnelles qui satisferont aux exigences du présent règlement, y compris en matière de sécurité du traitement. L'application par un sous-traitant d'un code de conduite approuvé ou d'un mécanisme de certification approuvé peut servir à démontrer le respect des obligations incombant au responsable du traitement. La réalisation d'un traitement par un sous-traitant devrait être régie par un contrat ou un autre acte juridique au titre du droit de l'Union ou du droit d'un État membre, liant le sous-traitant au responsable du traitement, définissant l'objet et la durée du traitement, la nature et les finalités du traitement, le type de données à caractère personnel et les catégories de personnes concernées, en tenant compte des tâches et responsabilités spécifiques du sous-traitant dans le cadre du traitement à effectuer et du risque pour les droits et libertés de la personne concernée. Le responsable du traitement et le sous-traitant peuvent choisir de recourir à un contrat particulier ou à des clauses contractuelles types, qui sont adoptées soit directement par la Commission soit par une autorité de contrôle conformément au mécanisme de contrôle de la cohérence, puis par la Commission. Après la réalisation du traitement pour le compte du responsable du traitement, le sous-traitant devrait, selon le choix du responsable du traitement, renvoyer ou supprimer les données à caractère personnel, à moins que le droit de l'Union ou le droit d'un État membre auquel le sous-traitant est soumis n'exige la conservation des données à caractère personnel. 
@@ -273,6 +305,8 @@ susceptible d'engendrer un risque pour les droits et libertés des personnes phy
 - (84) Afin de mieux garantir le respect du présent règlement lorsque les opérations de traitement sont susceptibles d'engendrer un risque élevé pour les droits et libertés des personnes physiques, le responsable du traitement devrait assumer la responsabilité d'effectuer une analyse d'impact relative à la protection des données pour évaluer, en particulier, l'origine, la nature, la particularité et la gravité de ce risque. Il convient de tenir compte du résultat de cette analyse pour déterminer les mesures appropriées à prendre afin de démontrer que le traitement des données à caractère personnel respecte le présent règlement. Lorsqu'il ressort de l'analyse d'impact relative à la protection des données que les opérations de traitement des données comportent un risque élevé que le responsable du traitement ne peut atténuer en prenant des mesures appropriées compte tenu des techniques disponibles et des coûts liés à leur mise en œuvre, il convient que l'autorité de contrôle soit consultée avant que le traitement n'ait lieu. 
 
 - (85) Une violation de données à caractère personnel risque, si l'on n'intervient pas à temps et de manière appropriée, de causer aux personnes physiques concernées des dommages physiques, matériels ou un préjudice moral tels qu'une perte de contrôle sur leurs données à caractère personnel ou la limitation de leurs droits, une discrimi­ nation, un vol ou une usurpation d'identité, une perte financière, un renversement non autorisé de la procédure de pseudonymisation, une atteinte à la réputation, une perte de confidentialité de données à caractère personnel 
+
+
 
 
 
@@ -292,6 +326,8 @@ protégées par le secret professionnel ou tout autre dommage économique ou soc
 
 
 
+
+
 il est plus difficile pour ces personnes d'exercer leurs droits. Une analyse d'impact relative à la protection des données devrait également être effectuée lorsque des données à caractère personnel sont traitées en vue de prendre des décisions relatives à des personnes physiques spécifiques à la suite d'une évaluation systématique et approfondie d'aspects personnels propres à des personnes physiques sur la base du profilage desdites données ou à la suite du traitement de catégories particulières de données à caractère personnel, de données biométriques ou de données relatives à des condamnations pénales et à des infractions, ou encore à des mesures de sûreté connexes. Une analyse d'impact relative à la protection des données est de même requise aux fins de la surveillance à grande échelle de zones accessibles au public, en particulier lorsque des dispositifs opto-électro­ niques sont utilisés, ou pour toute autre opération pour laquelle l'autorité de contrôle compétente considère que le traitement est susceptible d'engendrer un risque élevé pour les droits et libertés des personnes concernées, en particulier parce qu'elles empêchent ces personnes d'exercer un droit ou de bénéficier d'un service ou d'un contrat, ou parce qu'elles sont effectuées systématiquement à grande échelle. Le traitement de données à caractère personnel ne devrait pas être considéré comme étant à grande échelle si le traitement concerne les données à caractère personnel de patients ou de clients par un médecin, un autre professionnel de la santé ou un avocat exerçant à titre individuel. Dans de tels cas, une analyse d'impact relative à la protection des données ne devrait pas être obligatoire. 
 
 - (92) Il existe des cas dans lesquels il peut être raisonnable et économique d'élargir la portée de l'analyse d'impact relative à la protection des données au-delà d'un projet unique, par exemple lorsque des autorités publiques ou organismes publics entendent mettre en place une application ou une plateforme de traitement commune, ou lorsque plusieurs responsables du traitement envisagent de créer une application ou un environnement de traitement communs à tout un secteur ou segment professionnel, ou pour une activité transversale largement utilisée. 
@@ -305,6 +341,8 @@ il est plus difficile pour ces personnes d'exercer leurs droits. Une analyse d'i
 - (96) L'autorité de contrôle devrait également être consultée au stade de la préparation d'une mesure législative ou réglementaire qui prévoit le traitement de données à caractère personnel, afin d'assurer que le traitement prévu respecte le présent règlement et, en particulier, d'atténuer le risque qu'il comporte pour la personne concernée. 
 
 - (97) Lorsque le traitement est réalisé par une autorité publique, à l'exception des juridictions ou des autorités judiciaires indépendantes agissant dans l'exercice de leur fonction juridictionnelle, lorsque, dans le secteur privé, il est effectué par un responsable du traitement dont les activités de base consistent en opérations de traitement exigeant un suivi régulier et systématique à grande échelle des personnes concernées, ou lorsque les activités de base du responsable du traitement ou du sous-traitant consistent en un traitement à grande échelle de catégories particulières de données à caractère personnel et de données relatives à des condamnations pénales et à des infractions, une personne possédant des connaissances spécialisées de la législation et des pratiques en matière de protection des données devrait aider le responsable du traitement ou le sous-traitant à vérifier le respect, au niveau interne, du présent règlement. Dans le secteur privé, les activités de base d'un responsable du traitement ont trait à ses activités principales et ne concernent pas le traitement des données à caractère personnel en tant qu'activité auxiliaire. Le niveau de connaissances spécialisées requis devrait être déterminé notamment en fonction 
+
+
 
 
 
@@ -326,6 +364,8 @@ des opérations de traitement de données effectuées et de la protection exigé
 
 
 
+
+
 quand les données à caractère personnel sont traitées dans un ou plusieurs secteurs spécifiques. Plus particuliè­ rement, le pays tiers devrait assurer un contrôle indépendant effectif de la protection des données et prévoir des mécanismes de coopération avec les autorités de protection des données des États membres, et les personnes concernées devraient se voir octroyer des droits effectifs et opposables ainsi que des possibilités effectives de recours administratif et juridictionnel. 
 
 - (105)  Outre les engagements internationaux pris par le pays tiers ou l'organisation internationale, la Commission devrait tenir compte des obligations découlant de la participation du pays tiers ou de l'organisation internationale à des systèmes multilatéraux ou régionaux, notamment en ce qui concerne la protection des données à caractère personnel, ainsi que de la mise en œuvre de ces obligations. Il y a lieu, en particulier, de prendre en considération l'adhésion du pays tiers à la convention du Conseil de l'Europe du 28 janvier 1981 pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel et à son protocole additionnel. Lorsqu'elle évalue le niveau de protection offert par des pays tiers ou des organisations internationales, la Commission devrait consulter le comité. 
@@ -342,6 +382,8 @@ quand les données à caractère personnel sont traitées dans un ou plusieurs s
 
 
 
+
+
 d'inclure ces clauses dans un contrat plus large, tel qu'un contrat entre le sous-traitant et un autre sous-traitant, ni d'y ajouter d'autres clauses ou des garanties supplémentaires, à condition que celles-ci ne contredisent pas, directement ou indirectement, les clauses contractuelles types adoptées par la Commission ou par une autorité de contrôle et qu'elles ne portent pas atteinte aux libertés et droits fondamentaux des personnes concernées. Les responsables du traitement et les sous-traitants devraient être encouragés à fournir des garanties supplémentaires par l'intermédiaire d'engagements contractuels qui viendraient compléter les clauses types de protection. 
 
 - (110)  Un groupe d'entreprises ou un groupe d'entreprises engagées dans une activité économique conjointe devrait pouvoir recourir à des règles d'entreprise contraignantes approuvées pour ses transferts internationaux de l'Union vers des entités du même groupe d'entreprises, ou du même groupe d'entreprises engagées dans une activité économique conjointe, à condition que ces règles d'entreprise incluent tous les principes essentiels et les droits opposables pour assurer des garanties appropriées pour les transferts ou catégories de transferts de données à caractère personnel. 
@@ -353,6 +395,8 @@ d'inclure ces clauses dans un contrat plus large, tel qu'un contrat entre le sou
 - (113)  Les transferts qui peuvent être qualifiés de non répétitifs et qui ne touchent qu'un nombre limité de personnes concernées pourraient également être autorisés aux fins des intérêts légitimes impérieux poursuivis par le responsable du traitement, lorsque ces intérêts prévalent sur les intérêts ou les libertés et droits fondamentaux de la personne concernée et lorsque le responsable du traitement a évalué toutes les circonstances entourant le transfert de données. Le responsable du traitement devrait accorder une attention particulière à la nature des données à caractère personnel, à la finalité et à la durée de la ou des opérations de traitement envisagées ainsi qu'à la situation dans le pays d'origine, le pays tiers et le pays de destination finale, et devrait prévoir des garanties appropriées pour protéger les libertés et droits fondamentaux des personnes physiques à l'égard du traitement de leurs données à caractère personnel. De tels transferts ne devraient être possibles que dans les cas résiduels dans lesquels aucun des autres motifs de transfert ne sont applicables. À des fins de recherche scientifique ou historique ou à des fins statistiques, il y a lieu de prendre en considération les attentes légitimes de la société en matière de progrès des connaissances. Le responsable du traitement devrait informer l'autorité de contrôle et la personne concernée du transfert. 
 
 - (114)  En tout état de cause, lorsque la Commission ne s'est pas prononcée sur le caractère adéquat du niveau de protection des données dans un pays tiers, le responsable du traitement ou le sous-traitant devrait adopter des solutions qui garantissent aux personnes concernées des droits opposables et effectifs en ce qui concerne le traitement de leurs données dans l'Union une fois que ces données ont été transférées, de façon à ce que lesdites personnes continuent de bénéficier des droits fondamentaux et des garanties. 
+
+
 
 
 
@@ -374,6 +418,8 @@ d'inclure ces clauses dans un contrat plus large, tel qu'un contrat entre le sou
 
 
 
+
+
 couvrir, notamment, le traitement dans le cadre d'activités menées par un établissement du responsable du traitement ou du sous-traitant sur le territoire de l'État membre dont elle relève, le traitement de données à caractère personnel effectué par des autorités publiques ou des organismes privés agissant dans l'intérêt public, le traitement affectant des personnes concernées sur le territoire de l'État membre dont elle relève, ou encore le traitement effectué par un responsable du traitement ou un sous-traitant qui n'est pas établi dans l'Union lorsque ce traitement vise des personnes concernées résidant sur le territoire de l'État membre dont elle relève. Cela devrait comprendre notamment le traitement des réclamations introduites par les personnes concernées, la conduite d'enquêtes sur l'application du présent règlement et la sensibilisation du public aux risques, règles, garanties et droits liés au traitement des données à caractère personnel. 
 
 - (123)  Il y a lieu que les autorités de contrôle surveillent l'application des dispositions en vertu du présent règlement et contribuent à ce que cette application soit cohérente dans l'ensemble de l'Union, afin de protéger les personnes physiques à l'égard du traitement de leurs données à caractère personnel et de faciliter le libre flux de ces données dans le marché intérieur. À cet effet, les autorités de contrôle devraient coopérer entre elles et avec la Commission sans qu'un accord doive être conclu entre les États membres sur la fourniture d'une assistance mutuelle ou sur une telle coopération. 
@@ -388,6 +434,8 @@ couvrir, notamment, le traitement dans le cadre d'activités menées par un éta
 
 
 
+
+
 traiter le cas, l'autorité de contrôle qui l'a informée devrait avoir la possibilité de soumettre un projet de décision, dont l'autorité de contrôle chef de file devrait tenir le plus grand compte lorsqu'elle élabore son projet de décision dans le cadre de ce mécanisme de guichet unique. 
 
 - (128)  Les règles relatives à l'autorité de contrôle chef de file et au mécanisme de guichet unique ne devraient pas s'appliquer lorsque le traitement est effectué par des autorités publiques ou des organismes privés dans l'intérêt public. Dans ce cas, la seule autorité de contrôle compétente pour exercer les pouvoirs qui lui sont conférés conformément au présent règlement devrait être l'autorité de contrôle de l'État membre dans lequel l'autorité publique ou l'organisme privé est établi. 
@@ -399,6 +447,8 @@ traiter le cas, l'autorité de contrôle qui l'a informée devrait avoir la poss
 - (131)  Lorsqu'une autre autorité de contrôle devrait faire office d'autorité de contrôle chef de file pour les activités de traitement du responsable du traitement ou du sous-traitant mais que l'objet concret d'une réclamation ou la violation éventuelle ne concerne que les activités de traitement du responsable du traitement ou du sous-traitant dans l'État membre dans lequel la réclamation a été introduite ou dans lequel la violation éventuelle a été constatée et que la question n'affecte pas sensiblement ou n'est pas susceptible d'affecter sensiblement des personnes concernées dans d'autres États membres, l'autorité de contrôle qui est saisie d'une réclamation, ou qui constate des situations susceptibles de constituer des violations du présent règlement ou qui est informée d'une autre manière de telles situations devrait rechercher un règlement amiable avec le responsable du traitement et, en cas d'échec, exercer l'ensemble de ses pouvoirs. Ceci devrait comprendre: les traitements spécifiques qui sont effectués sur le territoire de l'État membre dont relève l'autorité de contrôle ou qui portent sur des personnes concernées se trouvant sur le territoire de cet État membre; les traitements effectués dans le cadre d'une offre de biens ou de services visant spécifiquement des personnes concernées se trouvant sur le territoire de l'État membre dont relève l'autorité de contrôle; ou encore les traitements qui doivent être évalués à l'aune des obligations légales pertinentes prévues par le droit d'un État membre. 
 
 - (132)  Les activités de sensibilisation organisées par les autorités de contrôle à l'intention du public devraient comprendre des mesures spécifiques destinées aux responsables du traitement et aux sous-traitants, y compris les micro, petites et moyennes entreprises, ainsi qu'aux personnes physiques, notamment dans le cadre éducatif. 
+
+
 
 
 
@@ -422,6 +472,8 @@ traiter le cas, l'autorité de contrôle qui l'a informée devrait avoir la poss
 
 
 
+
+
 juridictionnel effectif conformément à l'article 47 de la Charte si elle estime que les droits que lui confère le présent règlement sont violés ou si l'autorité de contrôle ne donne pas suite à sa réclamation, la refuse ou la rejette, en tout ou en partie, ou si elle n'agit pas alors qu'une action est nécessaire pour protéger les droits de la personne concernée. L'enquête faisant suite à une réclamation devrait être menée, sous contrôle juridictionnel, dans la mesure appropriée requise par le cas d'espèce. L'autorité de contrôle devrait informer la personne concernée de l'état d'avancement et de l'issue de la réclamation dans un délai raisonnable. Si l'affaire requiert un complément d'enquête ou une coordination avec une autre autorité de contrôle, des informations intermédiaires devraient être fournies à la personne concernée. Afin de faciliter l'introduction des réclamations, chaque autorité de contrôle devrait prendre des mesures telles que la fourniture d'un formulaire de réclamation qui peut être également rempli par voie électronique, sans que d'autres moyens de communication soient exclus. 
 
 - (142)  Lorsqu'une personne concernée estime que les droits que lui confère le présent règlement sont violés, elle devrait avoir le droit de mandater un organisme, une organisation ou une association à but non lucratif, constitué conformément au droit d'un État membre, dont les objectifs statutaires sont d'intérêt public et qui est actif dans le domaine de la protection des données à caractère personnel, pour qu'il introduise une réclamation en son nom auprès d'une autorité de contrôle, exerce le droit à un recours juridictionnel au nom de personnes concernées ou, si cela est prévu par le droit d'un État membre, exerce le droit d'obtenir réparation au nom de personnes concernées. Un État membre peut prévoir que cet organisme, cette organisation ou cette association a le droit d'introduire une réclamation dans cet État membre, indépendamment de tout mandat confié par une personne concernée, et dispose du droit à un recours juridictionnel effectif s'il a des raisons de considérer que les droits d'une personne concernée ont été violés parce que le traitement des données à caractère personnel a eu lieu en violation du présent règlement. Cet organisme, cette organisation ou cette association ne peut pas être autorisé à réclamer réparation pour le compte d'une personne concernée indépendamment du mandat confié par la personne concernée. 
@@ -431,6 +483,8 @@ juridictionnel effectif conformément à l'article 47 de la Charte si elle estim
 Lorsqu'une réclamation a été rejetée ou refusée par une autorité de contrôle, l'auteur de la réclamation peut intenter une action devant les juridictions de ce même État membre. Dans le cadre des recours juridictionnels relatifs à l'application du présent règlement, les juridictions nationales qui estiment qu'une décision sur la question est nécessaire pour leur permettre de rendre leur jugement peuvent ou, dans le cas prévu à l'article 267 du traité sur le fonctionnement de l'Union européenne, doivent demander à la Cour de justice de statuer à titre préjudiciel sur l'interprétation du droit de l'Union, y compris le présent règlement. En outre, lorsqu'une décision d'une autorité de contrôle mettant en œuvre une décision du comité est contestée devant une juridiction nationale et que la validité de la décision du comité est en cause, ladite juridiction nationale n'est pas habilitée à invalider la décision du comité et doit, dans tous les cas où elle considère qu'une décision est invalide, soumettre la question de la validité à la Cour de justice, conformément à l'article 267 du traité sur le fonctionnement de l'Union européenne tel qu'il a été interprété par la Cour de justice. Toutefois, une juridiction nationale peut ne pas soumettre une question relative à la validité d'une décision du comité à la demande d'une personne physique ou morale qui a eu la possibilité de former un recours en annulation de cette décision, en particulier si elle était concernée directement et individuellement par ladite décision, et ne l'a pas fait dans le délai prévu à l'article 263 du traité sur le fonctionnement de l'Union européenne. 
 
 - (144)  Lorsqu'une juridiction saisie d'une action contre une décision prise par une autorité de contrôle a des raisons de croire que des actions concernant le même traitement, portant par exemple sur le même objet, effectué par le même responsable du traitement ou le même sous-traitant, ou encore la même cause, sont introduites devant une juridiction compétente d'un autre État membre, il convient qu'elle contacte cette autre juridiction afin de confirmer l'existence de telles actions connexes. Si des actions connexes sont pendantes devant une juridiction 
+
+
 
 
 
@@ -452,6 +506,8 @@ d'un autre État membre, toute juridiction autre que celle qui a été saisie en
 
 
 
+
+
 règlement devrait définir les violations, le montant maximal et les critères de fixation des amendes administratives dont elles sont passibles, qui devraient être fixés par l'autorité de contrôle compétente dans chaque cas d'espèce, en prenant en considération toutes les caractéristiques propres à chaque cas et compte dûment tenu, notamment, de la nature, de la gravité et de la durée de la violation et de ses conséquences, ainsi que des mesures prises pour garantir le respect des obligations découlant du règlement et pour prévenir ou atténuer les conséquences de la violation. Lorsque des amendes administratives sont imposées à une entreprise, ce terme doit, à cette fin, être compris comme une entreprise conformément aux articles 101 et 102 du traité sur le fonctionnement de l'Union européenne. Lorsque des amendes administratives sont imposées à des personnes qui ne sont pas une entreprise, l'autorité de contrôle devrait tenir compte, lorsqu'elle examine quel serait le montant approprié de l'amende, du niveau général des revenus dans l'État membre ainsi que de la situation économique de la personne en cause. Il peut en outre être recouru au mécanisme de contrôle de la cohérence pour favoriser une application cohérente des amendes administratives. Il devrait appartenir aux États membres de déterminer si et dans quelle mesure les autorités publiques devraient faire l'objet d'amendes administratives. L'application d'une amende administrative ou le fait de donner un avertissement ne portent pas atteinte à l'exercice d'autres pouvoirs des autorités de contrôle ou à l'application d'autres sanctions en vertu du présent règlement. 
 
 - (151)  Les systèmes juridiques du Danemark et de l'Estonie ne permettent pas d'imposer des amendes administratives comme le prévoit le présent règlement. Les règles relatives aux amendes administratives peuvent être appliquées de telle sorte que, au Danemark, l'amende est imposée par les juridictions nationales compétentes sous la forme d'une sanction pénale et en Estonie, l'amende est imposée par l'autorité de contrôle dans le cadre d'une procédure de délit, à condition qu'une telle application des règles dans ces États membres ait un effet équivalent aux amendes administratives imposées par les autorités de contrôle. C'est pourquoi les juridictions nationales compétentes devraient tenir compte de la recommandation formulée par l'autorité de contrôle qui est à l'origine de l'amende. En tout état de cause, les amendes imposées devraient être effectives, proportionnées et dissuasives. 
@@ -466,6 +522,8 @@ règlement devrait définir les violations, le montant maximal et les critères 
 
 
 
+
+
 des données à caractère personnel garanti par les dispositions du droit de l'Union et du droit des États membres et, en particulier, ne modifie en rien les droits et obligations prévus dans le présent règlement. En particulier, ladite directive ne devrait pas s'appliquer aux documents dont l'accès est exclu ou limité en application de règles d'accès pour des motifs de protection des données à caractère personnel, et aux parties de documents accessibles en vertu desdites règles qui contiennent des données à caractère personnel dont la réutilisation a été prévue par la loi comme étant incompatible avec la législation concernant la protection des personnes physiques à l'égard du traitement des données à caractère personnel. 
 
 - (155)  Le droit des États membres ou des conventions collectives, y compris des «accords d'entreprise» peuvent prévoir des règles spécifiques relatives au traitement des données à caractère personnel des employés dans le cadre des relations de travail, notamment les conditions dans lesquelles les données à caractère personnel dans le cadre des relations de travail peuvent être traitées sur la base du consentement de l'employé, aux fins du recrutement, de l'exécution du contrat de travail, y compris le respect des obligations fixées par la loi ou par des conventions collectives, de la gestion, de la planification et de l'organisation du travail, de l'égalité et de la diversité sur le lieu de travail, de la santé et de la sécurité au travail, et aux fins de l'exercice et de la jouissance des droits et des avantages liés à l'emploi, individuellement ou collectivement, ainsi qu'aux fins de la résiliation de la relation de travail. 
@@ -475,6 +533,8 @@ des données à caractère personnel garanti par les dispositions du droit de l'
 - (157)  En combinant les informations issues des registres, les chercheurs peuvent acquérir de nouvelles connaissances d'un grand intérêt en ce qui concerne des problèmes médicaux très répandus tels que les maladies cardiovascu­ laires, le cancer et la dépression. Sur la base des registres, les résultats de la recherche peuvent être améliorés car ils s'appuient sur un échantillon plus large de population. Dans le cadre des sciences sociales, la recherche sur la base des registres permet aux chercheurs d'acquérir des connaissances essentielles sur les corrélations à long terme existant entre un certain nombre de conditions sociales telles que le chômage et l'éducation et d'autres conditions de vie. Les résultats de la recherche obtenus à l'aide des registres fournissent des connaissances fiables et de grande qualité qui peuvent servir de base à l'élaboration et à la mise en œuvre d'une politique fondée sur la connaissance, améliorer la qualité de vie d'un certain nombre de personnes et renforcer l'efficacité des services sociaux. Pour faciliter la recherche scientifique, les données à caractère personnel peuvent être traitées à des fins de recherche scientifique sous réserve de conditions et de garanties appropriées prévues dans le droit de l'Union ou le droit des États membres. 
 
 - (158)  Lorsque les données à caractère personnel sont traitées à des fins archivistiques, le présent règlement devrait également s'appliquer à ce traitement, étant entendu qu'il ne devrait pas s'appliquer aux des personnes décédées. Les autorités publiques ou les organismes publics ou privés qui conservent des archives dans l'intérêt public devraient être des services qui, en vertu du droit de l'Union ou du droit d'un État membre, ont l'obligation légale de collecter, de conserver, d'évaluer, d'organiser, de décrire, de communiquer, de mettre en valeur, de diffuser des archives qui sont à conserver à titre définitif dans l'intérêt public général et d'y donner accès. Les États membres devraient également être autorisés à prévoir un traitement ultérieur des données à caractère personnel à des fins archivistiques, par exemple en vue de fournir des informations précises relatives au comportement politique sous les régimes des anciens États totalitaires, aux génocides, aux crimes contre l'humanité, notamment l'Holocauste, ou aux crimes de guerre. 
+
+
 
 
 
@@ -500,6 +560,8 @@ des données à caractère personnel garanti par les dispositions du droit de l'
 
 
 
+
+
 libre circulation de ces données au sein de l'Union, il convient de déléguer à la Commission le pouvoir d'adopter des actes conformément à l'article 290 du traité sur le fonctionnement de l'Union européenne. En particulier, des actes délégués devraient être adoptés en ce qui concerne les critères et exigences applicables aux mécanismes de certification, les informations à présenter sous la forme d'icônes normalisées ainsi que les procédures régissant la fourniture de ces icônes. Il importe particulièrement que la Commission procède aux consultations appropriées durant son travail préparatoire, y compris au niveau des experts. Il convient que, lorsqu'elle prépare et élabore des actes délégués, la Commission veille à ce que tous les documents pertinents soient transmis simultanément en temps utile et de façon appropriée au Parlement européen et au Conseil. 
 
 - (167)  Afin d'assurer des conditions uniformes d'exécution du présent règlement, il convient de conférer des compétences d'exécution à la Commission lorsque le présent règlement le prévoit. Ces compétences devraient être exercées en conformité avec le règlement (UE) n[o ] 182/2011. Dans ce cadre, la Commission devrait envisager des mesures spécifiques pour les micro, petites et moyennes entreprises. 
@@ -519,6 +581,8 @@ libre circulation de ces données au sein de l'Union, il convient de déléguer 
 - ([1] ) JO C 192 du 30.6.2012, p. 7. 
 
 > ([2] ) Directive 2002/58/CE du Parlement européen et du Conseil du 12 juillet 2002 concernant le traitement des données à caractère personnel et la protection de la vie privée dans le secteur des communications électroniques (directive vie privée et communications électroniques) (JO L 201 du 31.7.2002, p. 37). 
+
+
 
 
 
@@ -566,6 +630,8 @@ _Article 3_
 
 
 
+
+
 2. Le présent règlement s'applique au traitement des données à caractère personnel relatives à des personnes concernées qui se trouvent sur le territoire de l'Union par un responsable du traitement ou un sous-traitant qui n'est pas établi dans l'Union, lorsque les activités de traitement sont liées: 
 
 - a)  à l'offre de biens ou de services à ces personnes concernées dans l'Union, qu'un paiement soit exigé ou non desdites personnes; ou 
@@ -600,6 +666,8 @@ Aux fins du présent règlement, on entend par:
 
 
 
+
+
 qui sont susceptibles de recevoir communication de données à caractère personnel dans le cadre d'une mission d'enquête particulière conformément au droit de l'Union ou au droit d'un État membre ne sont pas considérées comme des destinataires; le traitement de ces données par les autorités publiques en question est conforme aux règles applicables en matière de protection des données en fonction des finalités du traitement; 
 
 - 10) «tiers», une personne physique ou morale, une autorité publique, un service ou un organisme autre que la personne concernée, le responsable du traitement, le sous-traitant et les personnes qui, placées sous l'autorité directe du responsable du traitement ou du sous-traitant, sont autorisées à traiter les données à caractère personnel; 
@@ -629,6 +697,8 @@ qui sont susceptibles de recevoir communication de données à caractère person
 - 20) «règles d'entreprise contraignantes», les règles internes relatives à la protection des données à caractère personnel qu'applique un responsable du traitement ou un sous-traitant établi sur le territoire d'un État membre pour des transferts ou pour un ensemble de transferts de données à caractère personnel à un responsable du traitement ou à un sous-traitant établi dans un ou plusieurs pays tiers au sein d'un groupe d'entreprises, ou d'un groupe d'entreprises engagées dans une activité économique conjointe; 
 
 - 21) «autorité de contrôle», une autorité publique indépendante qui est instituée par un État membre en vertu de l'article 51; 
+
+
 
 
 
@@ -674,9 +744,7 @@ _Article 5_
 
 
 
-L 119/36 FR 
 
-4.5.2016 
 
 - e)  conservées sous une forme permettant l'identification des personnes concernées pendant une durée n'excédant pas celle nécessaire au regard des finalités pour lesquelles elles sont traitées; les données à caractère personnel peuvent être conservées pour des durées plus longues dans la mesure où elles seront traitées exclusivement à des fins archivis­ tiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques conformément à l'article 89, paragraphe 1, pour autant que soient mises en œuvre les mesures techniques et organisationnelles appropriées requises par le présent règlement afin de garantir les droits et libertés de la personne concernée (limitation de la conservation); 
 
@@ -716,7 +784,7 @@ Les finalités du traitement sont définies dans cette base juridique ou, en ce 
 
 
 
-4.5.2016 FR 
+
 
 traitement, y compris les mesures visant à garantir un traitement licite et loyal, telles que celles prévues dans d'autres situations particulières de traitement comme le prévoit le chapitre IX. Le droit de l'Union ou le droit des États membres répond à un objectif d'intérêt public et est proportionné à l'objectif légitime poursuivi. 
 
@@ -754,6 +822,8 @@ Les États membres peuvent prévoir par la loi un âge inférieur pour ces final
 
 
 
+
+
 2. Le responsable du traitement s'efforce raisonnablement de vérifier, en pareil cas, que le consentement est donné ou autorisé par le titulaire de la responsabilité parentale à l'égard de l'enfant, compte tenu des moyens technologiques disponibles. 
 
 3. Le paragraphe 1 ne porte pas atteinte au droit général des contrats des États membres, notamment aux règles concernant la validité, la formation ou les effets d'un contrat à l'égard d'un enfant. 
@@ -783,6 +853,8 @@ Les États membres peuvent prévoir par la loi un âge inférieur pour ces final
 - h)  le traitement est nécessaire aux fins de la médecine préventive ou de la médecine du travail, de l'appréciation de la capacité de travail du travailleur, de diagnostics médicaux, de la prise en charge sanitaire ou sociale, ou de la gestion des systèmes et des services de soins de santé ou de protection sociale sur la base du droit de l'Union, du droit d'un État membre ou en vertu d'un contrat conclu avec un professionnel de la santé et soumis aux conditions et garanties visées au paragraphe 3; 
 
 - i)  le traitement est nécessaire pour des motifs d'intérêt public dans le domaine de la santé publique, tels que la protection contre les menaces transfrontalières graves pesant sur la santé, ou aux fins de garantir des normes élevées de qualité et de sécurité des soins de santé et des médicaments ou des dispositifs médicaux, sur la base du droit de l'Union ou du droit de l'État membre qui prévoit des mesures appropriées et spécifiques pour la sauvegarde des droits et libertés de la personne concernée, notamment le secret professionnel; 
+
+
 
 
 
@@ -822,6 +894,8 @@ _Article 12_
 
 
 
+
+
 2. Le responsable du traitement facilite l'exercice des droits conférés à la personne concernée au titre des articles 15 à 22. Dans les cas visés à l'article 11, paragraphe 2, le responsable du traitement ne refuse pas de donner suite à la demande de la personne concernée d'exercer les droits que lui confèrent les articles 15 à 22, à moins que le responsable du traitement ne démontre qu'il n'est pas en mesure d'identifier la personne concernée. 
 
 3. Le responsable du traitement fournit à la personne concernée des informations sur les mesures prises à la suite d'une demande formulée en application des articles 15 à 22, dans les meilleurs délais et en tout état de cause dans un délai d'un mois à compter de la réception de la demande. Au besoin, ce délai peut être prolongé de deux mois, compte tenu de la complexité et du nombre de demandes. Le responsable du traitement informe la personne concernée de cette prolongation et des motifs du report dans un délai d'un mois à compter de la réception de la demande. Lorsque la personne concernée présente sa demande sous une forme électronique, les informations sont fournies par voie électronique lorsque cela est possible, à moins que la personne concernée ne demande qu'il en soit autrement. 
@@ -857,6 +931,8 @@ Il incombe au responsable du traitement de démontrer le caractère manifestemen
 - b)  le cas échéant, les coordonnées du délégué à la protection des données; 
 
 - c)  les finalités du traitement auquel sont destinées les données à caractère personnel ainsi que la base juridique du traitement; 
+
+
 
 
 
@@ -902,6 +978,8 @@ _Article 14_
 
 
 
+
+
 - f)  le cas échéant, le fait que le responsable du traitement a l'intention d'effectuer un transfert de données à caractère personnel à un destinataire dans un pays tiers ou une organisation internationale, et l'existence ou l'absence d'une décision d'adéquation rendue par la Commission ou, dans le cas des transferts visés à l'article 46 ou 47, ou à l'article 49, paragraphe 1, deuxième alinéa, la référence aux garanties appropriées ou adaptées et les moyens d'en obtenir une copie ou l'endroit où elles ont été mises à disposition; 
 
 2. En plus des informations visées au paragraphe 1, le responsable du traitement fournit à la personne concernée les informations suivantes nécessaires pour garantir un traitement équitable et transparent à l'égard de la personne concernée: 
@@ -939,6 +1017,8 @@ _Article 14_
 - c)  l'obtention ou la communication des informations sont expressément prévues par le droit de l'Union ou le droit de l'État membre auquel le responsable du traitement est soumis et qui prévoit des mesures appropriées visant à protéger les intérêts légitimes de la personne concernée; ou 
 
 - d)  les données à caractère personnel doivent rester confidentielles en vertu d'une obligation de secret professionnel réglementée par le droit de l'Union ou le droit des États membre, y compris une obligation légale de secret profes­ sionnel. 
+
+
 
 
 
@@ -990,6 +1070,8 @@ La personne concernée a le droit d'obtenir du responsable du traitement, dans l
 
 
 
+
+
 - b)  la personne concernée retire le consentement sur lequel est fondé le traitement, conformément à l'article 6, paragraphe 1, point a), ou à l'article 9, paragraphe 2, point a), et il n'existe pas d'autre fondement juridique au traitement; 
 
 - c)  la personne concernée s'oppose au traitement en vertu de l'article 21, paragraphe 1, et il n'existe pas de motif légitime impérieux pour le traitement, ou la personne concernée s'oppose au traitement en vertu de l'article 21, paragraphe 2; 
@@ -1029,6 +1111,8 @@ La personne concernée a le droit d'obtenir du responsable du traitement, dans l
 - d)  la personne concernée s'est opposée au traitement en vertu de l'article 21, paragraphe 1, pendant la vérification portant sur le point de savoir si les motifs légitimes poursuivis par le responsable du traitement prévalent sur ceux de la personne concernée. 
 
 2. Lorsque le traitement a été limité en vertu du paragraphe 1, ces données à caractère personnel ne peuvent, à l'exception de la conservation, être traitées qu'avec le consentement de la personne concernée, ou pour la constatation, l'exercice ou la défense de droits en justice, ou pour la protection des droits d'une autre personne physique ou morale, ou encore pour des motifs importants d'intérêt public de l'Union ou d'un État membre. 
+
+
 
 
 
@@ -1072,6 +1156,8 @@ _Article 21_
 
 
 
+
+
 4. Au plus tard au moment de la première communication avec la personne concernée, le droit visé aux paragraphes 1 et 2 est explicitement porté à l'attention de la personne concernée et est présenté clairement et séparément de toute autre information. 
 
 5. Dans le cadre de l'utilisation de services de la société de l'information, et nonobstant la directive 2002/58/CE, la personne concernée peut exercer son droit d'opposition à l'aide de procédés automatisés utilisant des spécifications techniques. 
@@ -1111,6 +1197,8 @@ _Article 23_
 - b)  la défense nationale; 
 
 c)  la sécurité publique; 
+
+
 
 
 
@@ -1166,6 +1254,8 @@ _Article 24_
 
 
 
+
+
 ## _Article 25_ 
 
 ## **Protection des données dès la conception et protection des données par défaut** 
@@ -1197,6 +1287,8 @@ _Article 24_
 - a)  à un traitement qui est occasionnel, qui n'implique pas un traitement à grande échelle des catégories particulières de données visées à l'article 9, paragraphe 1, ou un traitement de données à caractère personnel relatives à des condam­ nations pénales et à des infractions visées à l'article 10, et qui n'est pas susceptible d'engendrer un risque pour les droits et libertés des personnes physiques, compte tenu de la nature, du contexte, de la portée et des finalités du traitement; ou 
 
 - b)  à une autorité publique ou à un organisme public; 
+
+
 
 
 
@@ -1234,9 +1326,7 @@ _Article 28_
 
 
 
-L 119/50 FR 
 
-4.5.2016 
 
 En ce qui concerne le point h) du premier alinéa, le sous-traitant informe immédiatement le responsable du traitement si, selon lui, une instruction constitue une violation du présent règlement ou d'autres dispositions du droit de l'Union ou du droit des États membres relatives à la protection des données. 
 
@@ -1271,6 +1361,8 @@ Le sous-traitant et toute personne agissant sous l'autorité du responsable du t
 - b)  les finalités du traitement; 
 
 - c)  une description des catégories de personnes concernées et des catégories de données à caractère personnel; 
+
+
 
 
 
@@ -1318,6 +1410,8 @@ a)  la pseudonymisation et le chiffrement des données à caractère personnel;
 
 
 
+
+
 - b)  des moyens permettant de garantir la confidentialité, l'intégrité, la disponibilité et la résilience constantes des systèmes et des services de traitement; 
 
 - c)  des moyens permettant de rétablir la disponibilité des données à caractère personnel et l'accès à celles-ci dans des délais appropriés en cas d'incident physique ou technique; 
@@ -1357,6 +1451,8 @@ _Article 34_
 ## **Communication à la personne concernée d'une violation de données à caractère personnel** 
 
 1. Lorsqu'une violation de données à caractère personnel est susceptible d'engendrer un risque élevé pour les droits et libertés d'une personne physique, le responsable du traitement communique la violation de données à caractère personnel à la personne concernée dans les meilleurs délais. 
+
+
 
 
 
@@ -1400,6 +1496,8 @@ _Article 34_
 
 
 
+
+
 7. L'analyse contient au moins: 
 
 - a)  une description systématique des opérations de traitement envisagées et des finalités du traitement, y compris, le cas échéant, l'intérêt légitime poursuivi par le responsable du traitement; 
@@ -1435,6 +1533,8 @@ _Article 34_
 - c)  les mesures et les garanties prévues afin de protéger les droits et libertés des personnes concernées en vertu du présent règlement; 
 
 - d)  le cas échéant, les coordonnées du délégué à la protection des données; 
+
+
 
 
 
@@ -1482,6 +1582,8 @@ _Article 38_
 
 
 
+
+
 2. Le responsable du traitement et le sous-traitant aident le délégué à la protection des données à exercer les missions visées à l'article 39 en fournissant les ressources nécessaires pour exercer ces missions, ainsi que l'accès aux données à caractère personnel et aux opérations de traitement, et lui permettant d'entretenir ses connaissances spécialisées. 
 
 3. Le responsable du traitement et le sous-traitant veillent à ce que le délégué à la protection des données ne reçoive aucune instruction en ce qui concerne l'exercice des missions. Le délégué à la protection des données ne peut être relevé de ses fonctions ou pénalisé par le responsable du traitement ou le sous-traitant pour l'exercice de ses missions. Le délégué à la protection des données fait directement rapport au niveau le plus élevé de la direction du responsable du traitement ou du sous-traitant. 
@@ -1526,6 +1628,8 @@ a)  le traitement loyal et transparent;
 
 
 
+
+
 - b)  les intérêts légitimes poursuivis par les responsables du traitement dans des contextes spécifiques; 
 
 - c)  la collecte des données à caractère personnel; 
@@ -1559,6 +1663,8 @@ a)  le traitement loyal et transparent;
 8. Lorsque l'avis visé au paragraphe 7 confirme que le projet de code, la modification ou la prorogation respecte le présent règlement ou, dans la situation visée au paragraphe 3, offre des garanties appropriées, le comité soumet son avis à la Commission. 
 
 9. La Commission peut décider, par voie d'actes d'exécution, que le code de conduite, la modification ou la prorogation approuvés qui lui ont été soumis en vertu du paragraphe 8 du présent article sont d'application générale au sein de l'Union. Ces actes d'exécution sont adoptés en conformité avec la procédure d'examen visée à l'article 93, paragraphe 2. 
+
+
 
 
 
@@ -1598,6 +1704,8 @@ a)  le traitement loyal et transparent;
 
 
 
+
+
 2. Outre l'application par les responsables du traitement ou les sous-traitants soumis au présent règlement, les mécanismes de certification, les labels ou les marques en matière de protection des données approuvés en vertu du paragraphe 5 du présent article peuvent être établis aux fins de démontrer que des responsables du traitement ou des sous-traitants qui ne sont pas soumis au présent règlement en vertu du l'article 3 fournissent des garanties appropriées dans le cadre des transferts de données à caractère personnel vers un pays tiers ou à une organisation internationale dans les conditions visées à l'article 46, paragraphe 2, point f). Ces responsables du traitement ou sous-traitants prennent l'engagement contraignant et exécutoire, au moyen d'instruments contractuels ou d'autres instruments juridiquement contraignants, d'appliquer ces garanties appropriées, y compris en ce qui concerne les droits des personnes concernées. 
 
 3. La certification est volontaire et accessible via un processus transparent. 
@@ -1627,6 +1735,8 @@ a)  le traitement loyal et transparent;
 - a)  démontré, à la satisfaction de l'autorité de contrôle compétente, leur indépendance et leur expertise au regard de l'objet de la certification; 
 
 > ([1] ) Règlement (CE) n[o ] 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l'accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le règlement (CEE) n[o ] 339/93 du Conseil (JO L 218 du 13.8.2008, p. 30). 
+
+
 
 
 
@@ -1664,6 +1774,8 @@ Un transfert, vers un pays tiers ou à une organisation internationale, de donn�
 
 
 
+
+
 ## _Article 45_ 
 
 ## **Transferts fondés sur une décision d'adéquation** 
@@ -1690,7 +1802,9 @@ Pour des raisons d'urgence impérieuses dûment justifiées, la Commission adopt
 
 7. Une décision adoptée en vertu du paragraphe 5 du présent article est sans préjudice des transferts de données à caractère personnel vers le pays tiers, un territoire ou un ou plusieurs secteurs déterminés dans ce pays tiers, ou à l'orga­ nisation internationale en question, effectués en application des articles 46 à 49. 
 
-8. La Commission publie au _
+8. La Commission publie au _Journal officiel de l'Union européenne_ et sur son site internet une liste des pays tiers, des territoires et des secteurs déterminés dans un pays tiers et des organisations internationales pour lesquels elle a constaté par voie de décision qu'un niveau de protection adéquat est ou n'est plus assuré. 
+
+
 
 
 
@@ -1736,6 +1850,8 @@ _Article 47_
 
 
 
+
+
 - b)  elles confèrent expressément aux personnes concernées des droits opposables en ce qui concerne le traitement de leurs données à caractère personnel; et 
 
 - c)  elles répondent aux exigences prévues au paragraphe 2. 
@@ -1772,6 +1888,8 @@ _Article 47_
 
 
 
+
+
 3. La Commission peut, pour les règles d'entreprise contraignantes au sens du présent article, préciser la forme de l'échange d'informations entre les responsables du traitement, les sous-traitants et les autorités de contrôle, ainsi que les procédures qui s'y rapportent. Ces actes d'exécution sont adoptés en conformité avec la procédure d'examen visée à l'article 93, paragraphe 2. 
 
 ## _Article 48_ 
@@ -1803,6 +1921,8 @@ _Article 49_
 Lorsqu'un transfert ne peut pas être fondé sur une disposition de l'article 45 ou 46, y compris les dispositions relatives aux règles d'entreprise contraignantes, et qu'aucune des dérogations pour des situations particulières visées au premier alinéa du présent paragraphe n'est applicable, un transfert vers un pays tiers ou à une organisation internationale ne peut avoir lieu que si ce transfert ne revêt pas de caractère répétitif, ne touche qu'un nombre limité de personnes concernées, est nécessaire aux fins des intérêts légitimes impérieux poursuivis par le responsable du traitement sur lesquels ne prévalent pas les intérêts ou les droits et libertés de la personne concernée, et si le responsable du traitement a évalué toutes les circonstances entourant le transfert de données et a offert, sur la base de cette évaluation, des garanties appropriées en ce qui concerne la protection des données à caractère personnel. Le responsable du traitement informe l'autorité de contrôle du transfert. Outre qu'il fournit les informations visées aux articles 13 et 14, le responsable du traitement informe la personne concernée du transfert et des intérêts légitimes impérieux qu'il poursuit. 
 
 2. Un transfert effectué en vertu du paragraphe 1, premier alinéa, point g), ne porte pas sur la totalité des données à caractère personnel ni sur des catégories entières de données à caractère personnel contenues dans le registre. Lorsque le registre est destiné à être consulté par des personnes justifiant d'un intérêt légitime, le transfert n'est effectué qu'à la demande de ces personnes ou lorsqu'elles en sont les destinataires. 
+
+
 
 
 
@@ -1847,6 +1967,8 @@ _Article 51_
 3. Lorsqu'un État membre institue plusieurs autorités de contrôle, il désigne celle qui représente ces autorités au comité et définit le mécanisme permettant de s'assurer du respect, par les autres autorités, des règles relatives au mécanisme de contrôle de la cohérence visé à l'article 63. 
 
 4. Chaque État membre notifie à la Commission les dispositions légales qu'il adopte en vertu du présent chapitre, au plus tard, le 25 mai 2018 et, sans tarder, toute modification ultérieure les affectant. 
+
+
 
 
 
@@ -1896,6 +2018,8 @@ _Article 52_
 
 
 
+
+
 b)  les qualifications et les conditions d'éligibilité requises pour être nommé membre de chaque autorité de contrôle; 
 
 - c)  les règles et les procédures pour la nomination du ou des membres de chaque autorité de contrôle; 
@@ -1931,6 +2055,8 @@ _Article 55_
 2. Par dérogation au paragraphe 1, chaque autorité de contrôle est compétente pour traiter une réclamation introduite auprès d'elle ou une éventuelle violation du présent règlement, si son objet concerne uniquement un établis­ sement dans l'État membre dont elle relève ou affecte sensiblement des personnes concernées dans cet État membre uniquement. 
 
 3. Dans les cas visés au paragraphe 2 du présent article, l'autorité de contrôle informe sans tarder l'autorité de contrôle chef de file de la question. Dans un délai de trois semaines suivant le moment où elle a été informée, l'autorité de contrôle chef de file décide si elle traitera ou non le cas conformément à la procédure prévue à l'article 60 _,_ en considérant s'il existe ou non un établissement du responsable du traitement ou du sous-traitant dans l'État membre de l'autorité de contrôle qui l'a informée. 
+
+
 
 
 
@@ -1975,6 +2101,8 @@ _Article 55_
 - n)  encourage la mise en place de mécanismes de certification ainsi que de labels et de marques en matière de protection des données en application de l'article 42, paragraphe 1, et approuve les critères de certification en application de l'article 42, paragraphe 5; 
 
 - o)  procède, le cas échéant, à l'examen périodique des certifications délivrées conformément à l'article 42, paragraphe 7; 
+
+
 
 
 
@@ -2023,6 +2151,8 @@ _Article 55_
 - b)  rappeler à l'ordre un responsable du traitement ou un sous-traitant lorsque les opérations de traitement ont entraîné une violation des dispositions du présent règlement; 
 
 - c)  ordonner au responsable du traitement ou au sous-traitant de satisfaire aux demandes présentées par la personne concernée en vue d'exercer ses droits en application du présent règlement; 
+
+
 
 
 
@@ -2076,6 +2206,8 @@ Chaque autorité de contrôle établit un rapport annuel sur ses activités, qui
 
 
 
+
+
 _CHAPITRE VII_ 
 
 ## _**Coopération et cohérence**_ 
@@ -2107,6 +2239,8 @@ _Article 60_
 9. Lorsque l'autorité de contrôle chef de file et les autorités de contrôle concernées sont d'accord pour refuser ou rejeter certaines parties d'une réclamation et donner suite à d'autres parties de cette réclamation, une décision distincte est adoptée pour chacune des parties. L'autorité de contrôle chef de file adopte la décision pour la partie relative aux actions concernant le responsable du traitement, la notifie à l'établissement principal ou à l'établissement unique du responsable du traitement ou du sous-traitant sur le territoire de l'État membre dont elle relève et en informe l'auteur de la réclamation, tandis que l'autorité de contrôle de l'auteur de la réclamation adopte la décision pour la partie concernant le refus ou le rejet de cette réclamation, la notifie à cette personne et en informe le responsable du traitement ou le soustraitant. 
 
 10. Après avoir été informé de la décision de l'autorité de contrôle chef de file en application des paragraphes 7 et 9, le responsable du traitement ou le sous-traitant prend les mesures nécessaires pour assurer le respect de cette décision en ce qui concerne les activités de traitement menées dans le cadre de tous ses établissements dans l'Union. Le responsable du traitement ou le sous-traitant notifie les mesures prises pour assurer le respect de la décision à l'autorité de contrôle chef de file, qui informe les autres autorités de contrôle concernées. 
+
+
 
 
 
@@ -2148,6 +2282,8 @@ _Article 60_
 
 
 
+
+
 2. Lorsque le responsable du traitement ou le sous-traitant est établi dans plusieurs États membres ou si un nombre important de personnes concernées dans plusieurs États membres sont susceptibles d'être sensiblement affectées par des opérations de traitement, une autorité de contrôle de chacun de ces États membres a le droit de participer aux opérations conjointes. L'autorité de contrôle qui est compétente en vertu de l'article 56, paragraphe 1 ou 4, invite l'autorité de contrôle de chacun de ces États membres à prendre part aux opérations conjointes concernées et donne suite sans tarder à toute demande d'une autorité de contrôle souhaitant y participer. 
 
 3. Une autorité de contrôle peut, conformément au droit d'un État membre, et avec l'autorisation de l'autorité de contrôle d'origine, conférer des pouvoirs, notamment des pouvoirs d'enquête, aux membres ou aux agents de l'autorité de contrôle d'origine participant à des opérations conjointes ou accepter, pour autant que le droit de l'État membre dont relève l'autorité de contrôle d'accueil le permette, que les membres ou les agents de l'autorité de contrôle d'origine exercent leurs pouvoirs d'enquête conformément au droit de l'État membre dont relève l'autorité de contrôle d'origine. Ces pouvoirs d'enquête ne peuvent être exercés que sous l'autorité et en présence de membres ou d'agents de l'autorité de contrôle d'accueil. Les membres ou agents de l'autorité de contrôle d'origine sont soumis au droit de l'État membre de l'autorité de contrôle d'accueil. 
@@ -2179,6 +2315,8 @@ _Article 64_
 - a)  vise à adopter une liste d'opérations de traitement pour lesquelles une analyse d'impact relative à la protection des données doit être effectuée en application de l'article 35, paragraphe 4; 
 
 - b)  concerne la question de savoir, en application de l'article 40, paragraphe 7, si un projet de code de conduite ou une modification ou une prorogation d'un code de conduite respecte le présent règlement; 
+
+
 
 
 
@@ -2218,6 +2356,8 @@ _Article 65_
 
 
 
+
+
 - b) lorsqu'il existe des points de vue divergents quant à l'autorité de contrôle concernée qui est compétente pour l'établis­ sement principal; 
 
 - c)  lorsqu'une autorité de contrôle compétente ne demande pas l'avis du comité dans les cas visés à l'article 64, paragraphe 1, ou qu'elle ne suit pas l'avis du comité émis en vertu de l'article 64. Dans ce cas, toute autorité de contrôle concernée ou la Commission peut saisir le comité de la question. 
@@ -2243,6 +2383,8 @@ _Article 65_
 3. Toute autorité de contrôle peut, en motivant sa demande d'avis ou de décision et notamment l'urgence d'intervenir, demander au comité un avis d'urgence ou une décision contraignante d'urgence, selon le cas, lorsqu'une autorité de contrôle compétente n'a pas pris de mesure appropriée dans une situation où il est urgent d'intervenir afin de protéger les droits et libertés des personnes concernées. 
 
 4. Par dérogation à l'article 64, paragraphe 3, et à l'article 65, paragraphe 2, l'avis d'urgence ou la décision contrai­ gnante d'urgence visés aux paragraphes 2 et 3 du présent article est adopté dans un délai de deux semaines à la majorité simple des membres du comité. 
+
+
 
 
 
@@ -2292,6 +2434,8 @@ _Article 70_
 
 
 
+
+
 - b)  de conseiller la Commission sur toute question relative à la protection des données à caractère personnel dans l'Union, y compris sur tout projet de modification du présent règlement; 
 
 - c)  de conseiller la Commission, en ce qui concerne les règles d'entreprise contraignantes, sur la forme de l'échange d'informations entre les responsables du traitement, les sous-traitants et les autorités de contrôle, ainsi que les procédures qui s'y rapportent; 
@@ -2327,6 +2471,8 @@ _Article 70_
 - r)  de rendre à la Commission un avis sur les icônes visées à l'article 12, paragraphe 7; 
 
 - s)  de rendre à la Commission un avis en ce qui concerne l'évaluation du caractère adéquat du niveau de protection assuré par un pays tiers ou une organisation internationale, y compris concernant l'évaluation visant à déterminer si un pays tiers, un territoire ou un ou plusieurs secteurs déterminés dans ce pays tiers, ou une organisation interna­ tionale n'assurent plus un niveau adéquat de protection. À cette fin, la Commission fournit au comité tous les documents nécessaires, y compris la correspondance avec le gouvernement du pays tiers, en ce qui concerne ledit pays tiers, territoire ou secteur déterminé ou avec l'organisation internationale; 
+
+
 
 
 
@@ -2371,6 +2517,8 @@ _Article 73_
 1. Le comité élit son président et deux vice-présidents en son sein à la majorité simple. 
 
 2. Le président et les vice-présidents sont élus pour un mandat de cinq ans renouvelable une fois. 
+
+
 
 
 
@@ -2426,6 +2574,8 @@ _Article 76_
 
 
 
+
+
 2. L'accès aux documents présentés aux membres du comité, aux experts et aux représentants de tiers est régi par le règlement (CE) n[o ] 1049/2001 du Parlement européen et du Conseil ([1] ). 
 
 ## _CHAPITRE VIII_ 
@@ -2464,6 +2614,8 @@ _Article 79_
 
 
 
+
+
 ## _Article 80_ 
 
 ## **Représentation des personnes concernées** 
@@ -2495,6 +2647,8 @@ _Article 79_
 4. Lorsque plusieurs responsables du traitement ou sous-traitants ou lorsque, à la fois, un responsable du traitement et un sous-traitant participent au même traitement et, lorsque, au titre des paragraphes 2 et 3, ils sont responsables d'un dommage causé par le traitement, chacun des responsables du traitement ou des sous-traitants est tenu responsable du dommage dans sa totalité afin de garantir à la personne concernée une réparation effective. 
 
 5. Lorsqu'un responsable du traitement ou un sous-traitant a, conformément au paragraphe 4, réparé totalement le dommage subi, il est en droit de réclamer auprès des autres responsables du traitement ou sous-traitants ayant participé au même traitement la part de la réparation correspondant à leur part de responsabilité dans le dommage, conformément aux conditions fixées au paragraphe 2. 
+
+
 
 
 
@@ -2542,6 +2696,8 @@ _Article 79_
 
 
 
+
+
 5. Les violations des dispositions suivantes font l'objet, conformément au paragraphe 2, d'amendes administratives pouvant s'élever jusqu'à 20 000 000 EUR ou, dans le cas d'une entreprise, jusqu'à 4 % du chiffre d'affaires annuel mondial total de l'exercice précédent, le montant le plus élevé étant retenu: 
 
 - a)  les principes de base d'un traitement, y compris les conditions applicables au consentement en vertu des articles 5, 6, 7 et 9; 
@@ -2582,6 +2738,8 @@ _Article 85_
 
 
 
+
+
 2. Dans le cadre du traitement réalisé à des fins journalistiques ou à des fins d'expression universitaire, artistique ou littéraire, les États membres prévoient des exemptions ou des dérogations au chapitre II (principes), au chapitre III (droits de la personne concernée), au chapitre IV (responsable du traitement et sous-traitant), au chapitre V (transfert de données à caractère personnel vers des pays tiers ou à des organisations internationales), au chapitre VI (autorités de contrôle indépendantes), au chapitre VII (coopération et cohérence) et au chapitre IX (situations particulières de traitement) si celles-ci sont nécessaires pour concilier le droit à la protection des données à caractère personnel et la liberté d'expression et d'information. 
 
 3. Chaque État membre notifie à la Commission les dispositions légales qu'il a adoptées en vertu du paragraphe 2 et, sans tarder, toute disposition légale modificative ultérieure ou toute modification ultérieure les concernant. 
@@ -2613,6 +2771,8 @@ Les États membres peuvent préciser les conditions spécifiques du traitement d
 ## **Garanties et dérogations applicables au traitement à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques** 
 
 1. Le traitement à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique, ou à des fins statistiques est soumis, conformément au présent règlement, à des garanties appropriées pour les droits et libertés de la personne concernée. Ces garanties garantissent la mise en place de mesures techniques et organisationnelles, 
+
+
 
 
 
@@ -2652,9 +2812,11 @@ _Article 92_
 
 
 
+
+
 2. La délégation de pouvoir visée à l'article 12, paragraphe 8, et à l'article 43, paragraphe 8, est conférée à la Commission pour une durée indéterminée à compter du 24 mai 2016. 
 
-3. La délégation de pouvoir visée à l'article 12, paragraphe 8, et à l'article 43, paragraphe 8, peut être révoquée à tout moment par le Parlement européen ou le Conseil. La décision de révocation met fin à la délégation de pouvoir qui y est précisée. La révocation prend effet le jour suivant celui de la publication de ladite décision au _
+3. La délégation de pouvoir visée à l'article 12, paragraphe 8, et à l'article 43, paragraphe 8, peut être révoquée à tout moment par le Parlement européen ou le Conseil. La décision de révocation met fin à la délégation de pouvoir qui y est précisée. La révocation prend effet le jour suivant celui de la publication de ladite décision au _Journal officiel de l'Union européenne_ ou à une date ultérieure qui est précisée dans ladite décision. Elle ne porte pas atteinte à la validité des actes délégués déjà en vigueur. 
 
 4. Aussitôt qu'elle adopte un acte délégué, la Commission le notifie au Parlement européen et au Conseil simulta­ nément. 
 
@@ -2687,6 +2849,8 @@ _Article 95_
 ## **Relation avec la directive 2002/58/CE** 
 
 Le présent règlement n'impose pas d'obligations supplémentaires aux personnes physiques ou morales quant au traitement dans le cadre de la fourniture de services de communications électroniques accessibles au public sur les réseaux publics de communications dans l'Union en ce qui concerne les aspects pour lesquels elles sont soumises à des obligations spécifiques ayant le même objectif énoncées dans la directive 2002/58/CE. 
+
+
 
 
 
@@ -2724,9 +2888,11 @@ _Article 99_
 
 ## **Entrée en vigueur et application** 
 
-1. Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au _
+1. Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au _Journal officiel de l'Union européenne_ . 
 
 2. Il est applicable à partir du 25 mai 2018. 
+
+
 
 
 
