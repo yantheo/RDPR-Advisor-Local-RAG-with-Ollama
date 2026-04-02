@@ -7,9 +7,8 @@ __pycache__/
 *.pyc
 
 # Données locales (très important !)
-data/
+data/RGPD_UE.md
 chroma_db/
-*.pdf
 
 
 start-1.py
