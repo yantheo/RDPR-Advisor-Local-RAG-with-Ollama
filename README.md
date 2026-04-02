@@ -24,19 +24,20 @@ Follow these steps to set up and run the GDPR Advisor locally:
 python -m venv venv
 source venv/bin/activate  # Windows: .\venv\Scripts\activate
 pip install -r requirements.txt
+```
 
-2. Model Preparation
+### 2. Model Preparation
 Ensure Ollama is installed and running, then execute:
-
-Bash
+```bash
 ollama pull qwen2.5:7b
 ollama pull bge-m3
-3. Running the App
+```
+
+### 3. Running the App
 Once the models are downloaded, start the web interface:
-
-Bash
+```bash
 streamlit run app.py
-
+```
 ### **💡 Pro-tip for your "Setup" phase:**
 Since you mentioned having the official PDF in the `data/` folder, make sure your **`app.py`** points to that exact path. 
 
