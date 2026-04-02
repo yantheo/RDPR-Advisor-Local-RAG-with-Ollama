@@ -10,7 +10,7 @@ __pycache__/
 data/
 chroma_db/
 *.pdf
-*.md
+
 
 start-1.py
 start-2.py
