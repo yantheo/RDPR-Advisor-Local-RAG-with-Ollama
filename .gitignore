@@ -12,5 +12,14 @@ chroma_db/
 *.pdf
 *.md
 
+start-1.py
+start-2.py
+pdf-rag-clean.py
+pdf-rag-V2.py
+pdf-rag.py
+Modelfile
+categorizer.py
+
+
 # OS spécifiques
 .DS_Store
